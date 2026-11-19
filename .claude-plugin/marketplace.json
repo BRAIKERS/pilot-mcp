@@ -1,0 +1,19 @@
+{
+  "name": "braike",
+  "description": "Pilot by Braike: the Pilot MCP server and its 167 paid-media skills.",
+  "owner": {
+    "name": "Braike",
+    "url": "https://pilot.braike.com"
+  },
+  "plugins": [
+    {
+      "name": "pilot",
+      "source": "./",
+      "description": "Pilot MCP: your ad accounts, GA4 and Search Console in Claude, with Pilot's analyses and 167 skills.",
+      "version": "0.1.0",
+      "homepage": "https://pilot.braike.com/en/pilot-mcp",
+      "license": "MIT",
+      "category": "marketing"
+    }
+  ]
+}

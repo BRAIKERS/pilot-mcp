@@ -1,0 +1,13 @@
+{
+  "name": "pilot",
+  "version": "0.1.0",
+  "description": "Pilot MCP: your ad accounts (Google Ads, Meta, TikTok, LinkedIn and 12 more), GA4 and Search Console in Claude, with Pilot's analyses and 167 skills.",
+  "author": {
+    "name": "Braike",
+    "url": "https://pilot.braike.com"
+  },
+  "homepage": "https://pilot.braike.com/en/pilot-mcp",
+  "repository": "https://github.com/BRAIKERS/pilot-mcp",
+  "license": "MIT",
+  "keywords": ["google-ads", "meta-ads", "tiktok-ads", "linkedin-ads", "ga4", "search-console", "ppc", "paid-media", "marketing", "analytics", "mcp"]
+}

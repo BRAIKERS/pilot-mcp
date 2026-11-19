@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" fill="none">
+  <defs>
+    <linearGradient id="pilot-fav-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a855f7"/>
+      <stop offset="0.45" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#5b23c2"/>
+    </linearGradient>
+  </defs>
+  <rect width="96" height="96" rx="20" fill="url(#pilot-fav-grad)"/>
+  <g stroke="#ffffff" stroke-width="3.2" stroke-linecap="round">
+    <line x1="15" y1="48" x2="81" y2="48"/>
+    <line x1="48" y1="15" x2="48" y2="81"/>
+    <line x1="24.7" y1="24.7" x2="71.3" y2="71.3"/>
+    <line x1="71.3" y1="24.7" x2="24.7" y2="71.3"/>
+  </g>
+  <circle cx="48" cy="48" r="22" fill="none" stroke="#ffffff" stroke-width="3.2"/>
+  <circle cx="48" cy="48" r="7" fill="#ffffff"/>
+</svg>

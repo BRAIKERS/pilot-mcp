@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.braike/pilot",
+  "title": "Pilot by Braike",
+  "description": "Google Ads, Meta, TikTok, LinkedIn, GA4 and Search Console in your AI assistant, with analyses.",
+  "version": "0.1.0",
+  "websiteUrl": "https://pilot.braike.com/en/pilot-mcp",
+  "repository": {
+    "url": "https://github.com/BRAIKERS/pilot-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/BRAIKERS/pilot-mcp/main/assets/logo-512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://app.pilot.braike.com/mcp"
+    }
+  ]
+}

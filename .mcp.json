@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pilot": {
+      "type": "http",
+      "url": "https://app.pilot.braike.com/mcp"
+    }
+  }
+}
